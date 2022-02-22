@@ -1,5 +1,8 @@
 homepage: "http://www.analytics-engineers.com"
 versions:
   # Latest version
+  - sha: 02308ec286cf876aa5e784395cb6c466322e198c
+    changeNotes: Changed metadata homepage URL.
+  # Older versions
   - sha: 14ebb8108c7bc930d6d21dc0a7fee0458dc7645d
     changeNotes: Initial Version
