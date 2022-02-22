@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Substring",
-  "categories": "UTILITY",
+  "categories": ["UTILITY"],
   "description": "Extract characters from a string.",
   "containerContexts": [
     "SERVER"
